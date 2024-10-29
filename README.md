@@ -6,3 +6,5 @@ La pagina está hecha en react usando una api para la consulta de las cotizacion
 Fue descargada desde un repositorio externo.
 
 Y está editado por el poderoso y wapote KanekiU Dev
+
+## LINEA DE CALIZ
